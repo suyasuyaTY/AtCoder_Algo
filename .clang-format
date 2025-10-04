@@ -1,0 +1,5 @@
+BasedOnStyle: Google   # 好きなベーススタイル (Google, LLVM, Microsoft, Chromium, etc.)
+ColumnLimit: 0         # 行の長さ制限を無効化 → 自動改行されない
+AllowShortFunctionsOnASingleLine: All
+AllowShortLambdasOnASingleLine: All
+AlwaysBreakTemplateDeclarations: No
